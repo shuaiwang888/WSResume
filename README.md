@@ -2,8 +2,8 @@
 <h2>
   主要涉及一些JavaWeb的基本常用知识点，比如：
 </h2>
-1.HTML+CSSx
-2.JavaScript基础
+- HTML+CSSx
+- JavaScript基础
 3.Java基础增强
 4.数据库MYSQL
 5.JDBC
