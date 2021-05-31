@@ -2,8 +2,6 @@
 <h2>
   主要涉及一些JavaWeb的基本常用知识点，比如：
 </h2>
-<h3> Introduction </h3>
-
  <h4> 1.HTML+CSSx </h4>
  <h4> 2.JavaScript基础 </h4>
  <h4> 3.Java基础增强 </h4>
